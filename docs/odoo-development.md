@@ -25,8 +25,8 @@ This ensures that every change is clearly described and can be linked to its rel
 |------|--------------|----------|
 | **Task NO** | The related task or ticket number (from project management tool such as Jira, ClickUp, or Odoo task). | `MJ-1234` |
 | **TYPE** | The nature of the change — common types include: | |
-| | **FIX** → Add new code, files, or features | |
-| | **ADD** → Fixing a bug | |
+| | **FIX** →  Fixing a bug | |
+| | **ADD** → Add new code, files, or features | |
 | | **REF** → Refactor code without changing behavior | |
 | | **MIG** → Migration related changes (e.g., DB schema) | |
 | | **DOC** → Documentation updates or changes | |
